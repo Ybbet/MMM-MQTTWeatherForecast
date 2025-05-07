@@ -1,0 +1,28 @@
+.MMM-MQTTWeatherForecast {
+    padding: 10px;
+}
+
+.MMM-MQTTWeatherForecast .module-header {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.MMM-MQTTWeatherForecast table {
+    width: 100%;
+    border-spacing: 8px 4px;
+    text-align: left;
+}
+
+.MMM-MQTTWeatherForecast td,
+.MMM-MQTTWeatherForecast th {
+    padding: 4px 6px;
+}
+
+.MMM-MQTTWeatherForecast i.wi {
+    font-size: 1.4em;
+    vertical-align: middle;
+    display: inline-block;
+    width: 1.6em;
+    text-align: center;
+}
